@@ -57,15 +57,13 @@ Here’s the organized list, categorized by section and device type:
   - [ICIS Organization (Member Profile)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=2956%3A15755&scaling=min-zoom&hide-ui=1)
 
 - **Membership**
+  - [Membership (Landing)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25551&scaling=min-zoom&hide-ui=1)
   - [Membership Form (Step 1)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25467&scaling=min-zoom&hide-ui=1)
-  - [Membership Form (Step 2)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25481&
-
-scaling=min-zoom&hide-ui=1)
+  - [Membership Form (Step 2)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25481&scaling=min-zoom&hide-ui=1)
   - [Membership Form (Step 3)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25495&scaling=min-zoom&hide-ui=1)
   - [Membership Form (Step 4)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25509&scaling=min-zoom&hide-ui=1)
   - [Membership Form (Step 5)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25523&scaling=min-zoom&hide-ui=1)
   - [Membership Form (Step 6)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25537&scaling=min-zoom&hide-ui=1)
-  - [Membership (Landing)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=3551%3A25551&scaling=min-zoom&hide-ui=1)
 
 - **Conferences**
   - [23rd Annual Conference (Landing)](https://www.figma.com/proto/kdGLrGvjUyQkk83vl6KTSe/ICIS%20Website?node-id=4741%3A25937&scaling=min-zoom&hide-ui=1)
